@@ -22,43 +22,5 @@ img{
 }
 
 .section-content{
-    padding:5rem 0;
-}
-
-#about{
-    background: url('img/girlincar.jpg') center center no-repeat;
-    background-size: cover;
-    
-}
-
-.about-text{
-    background: rgba(0,0,0,0.8);
-    color:white;
-    padding: 1.875rem;
-
-}
-
-.btn-success-outline{
-    background:white;
-    border: solid 1.5px chartreuse;
-    color:chartreuse;
-    
-}
-
-.btn-secondary-outline{
-    border:solid 1px white;
-    color:white;
-}
-
-
-.pagination{
- text-align: center;   
-    margin:0 auto;
-}
-
-#footer.main{
-    background: #222;
-    color:white;
-    font-size:0.8rem;
-    padding:2.5rem 0;
+     padding: 5rem 0;   
 }
