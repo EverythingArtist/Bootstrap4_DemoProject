@@ -57,6 +57,10 @@ img{
     border:solid 1px #767676;
 }
 
+.btn.btn-primary-outline.btn-lg{
+    border:solid 1px black;
+}
+
 .feature-dark{
     background: #262F36;
     color:white;
@@ -65,3 +69,32 @@ img{
 #feature-one{
     margin:80px;
 }
+
+#feature-three{
+  padding-top: 80px;
+}
+
+#feature-four{
+  padding-top: 80px;
+  background-color: #f0f0f0;
+}
+
+#main-footer{
+  background: #363F36;
+  color:white;
+  padding: 6rem 0;
+  font-size: 0.8rem;
+}
+
+#main-footer h6{
+  color:#718FA9;
+}
+
+#main-footer a{
+  color: #6C6F73;
+}
+
+/* .textContainer h6 {
+    vertical-align: middle;
+    display: inline-block;
+} */
